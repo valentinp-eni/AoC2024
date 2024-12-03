@@ -23,10 +23,31 @@ Bienvenue sur mon dépôt GitHub dédié à l'**Advent of Code 2024** ! Je parti
 ## 📈 Progression
 
 - [x] Préparation du dépôt
-- [ ] Jour 1
-- [ ] Jour 2
-- [ ] ...
-
+- [X] Jour 1
+- [X] Jour 2
+- [X] Jour 3
+- [ ] Jour 4
+- [ ] Jour 5
+- [ ] Jour 6
+- [ ] Jour 7
+- [ ] Jour 8
+- [ ] Jour 9
+- [ ] Jour 10
+- [ ] Jour 11
+- [ ] Jour 12
+- [ ] Jour 13
+- [ ] Jour 14
+- [ ] Jour 15
+- [ ] Jour 16
+- [ ] Jour 17
+- [ ] Jour 18
+- [ ] Jour 19
+- [ ] Jour 20
+- [ ] Jour 21
+- [ ] Jour 22
+- [ ] Jour 23
+- [ ] Jour 24
+- [ ] Jour 25
 ## 🤝 Contribution
 
 1. Forker le projet
