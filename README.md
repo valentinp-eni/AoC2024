@@ -35,7 +35,7 @@ Bienvenue sur mon dépôt GitHub dédié à l'**Advent of Code 2024** ! Je parti
 4. Pousser la branche
 5. Ouvrir une Pull Request
 
-## 📫 Contact
+## 📫 Informations
 
 - **École** : ENI École Informatique
 - **Formation** : TSSR
